@@ -1,0 +1,3 @@
+Fabric==1.5.0
+PyYAML==3.10
+pyrax==1.4.11

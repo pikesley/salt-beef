@@ -1,0 +1,6 @@
+example:
+    image: Ubuntu 12.04 LTS (Precise Pangolin)
+    size: 4GB Standard Instance
+    provider: rackspace-conf-username
+    grains:
+        role: somerole
