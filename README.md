@@ -1,5 +1,5 @@
-spare-ribs
-==========
+salt-beef
+=========
 
 A fabric file to set up a herd of servers in a panic.
 
@@ -11,7 +11,7 @@ Usage
 -----
 
 1. Check out the repo somewhere.
-2. `virtualenv spare-ribs` (or `mkvirtualenv` etc.)
+2. `virtualenv salt-beef` (or `mkvirtualenv` etc.)
 3. `pip install -r requirements.txt`
 4. Manually export the env settings from postactivate.example (or edit it and
    place it in `$VIRTUAL_ENV/bin/postactivate`
