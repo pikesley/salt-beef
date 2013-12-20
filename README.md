@@ -1,3 +1,5 @@
+[![Fork Status](http://alpha.forkbomb.io/forks/pikesley/salt-beef/badge.png)](http://alpha.forkbomb.io/forks/pikesley/salt-beef)
+
 spare-ribs
 ==========
 
